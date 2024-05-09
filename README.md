@@ -1,4 +1,4 @@
-Este código es un ejemplo de una aplicación simple en Flutter que simula lanzar una pirinola. 
+Este repositorio contiene los códigos para generar una aplicación simple en Flutter que simula lanzar una pirinola. 
 Importa los paquetes necesarios para usar Flutter y la clase Random de la biblioteca estándar de Dart.
 Se presenta un widget de estado (StatefulWidget) que representa la pirinola. No incluye un método build, 
 ya que esto se maneja en la clase de estado interna. En su lugar, tiene un método createState que devuelve una instancia de _DiceRollerState, 
